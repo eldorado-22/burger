@@ -7,4 +7,5 @@
 <h2> <a href="https://twitter.com/jumashevv996" target="_blank">My Twitter</a></h2>
 <h2> <a href="https://www.linkedin.com/in/eldar-jumashevv-51a792259/" target="_blank">My LinkedIn</a>  </h2>
 
-<h1> See other projects..🗂️ https://www.github.com/eldorado-22/ </br>
+<h1> See other projects..🗂️ <br/> 
+acc: <a href="https://github.com/eldorado-22">@eldorado-22</a>
